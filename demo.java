@@ -9,7 +9,5 @@ public class demo {
             array[i] *= 2;
         }
 
-        System.out.println(Arrays.toString(array)); // Output: [2, 4, 6, 8, 10]
-
     }
 }
